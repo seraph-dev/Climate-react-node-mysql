@@ -1,0 +1,1 @@
+exports.SETTING_CITY = "SETTING_CITY";
